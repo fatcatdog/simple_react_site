@@ -1,0 +1,17 @@
+.about_header {
+  text-align: center;
+}
+
+.about_content{
+margin-left: 10%;
+margin-right: 10%;
+font-size: 30px;
+}
+
+
+@media screen and (max-width: 480px) {
+  .about_content{
+    font-size: 20px;
+  }
+
+}
