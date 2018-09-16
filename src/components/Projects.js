@@ -4,7 +4,7 @@ import React from 'react';
 import '../css/Projects.css';
 
 let data = [
-  {name:"BlogPlatform", description: "App built in SpringBoot, Spring Security, JWT auth, React, and MySql database", url: "https://github.com/fatcatdog/SpringBootReactPoweredBlog", demoUrl: "https://github.com/fatcatdog/SpringBootReactPoweredBlog", screenshot: ""},
+  {name:"BlogPlatform", description: "App built in SpringBoot, Spring Security, JWT auth, React, and MySql database (a work in progress)", url: "https://github.com/fatcatdog/SpringBootReactPoweredBlog", demoUrl: "https://github.com/fatcatdog/SpringBootReactPoweredBlog", screenshot: ""},
   {name:"YoutubeLite", description: "App built with React, Redux, Node, and Youtube API", url: "https://github.com/fatcatdog/light-youtube-player-", demoUrl: "https://youtube-player-react-redux.herokuapp.com/", screenshot: ""},
   {name:"JSBudgetTracker", description: "Budget Calcultor built in Vanilla JS", url:"https://github.com/fatcatdog/monthly-budget-vanilla-js" , demoUrl: "https://vanillajsbudgettracker.herokuapp.com/", screenshot: "" },
   {name:"CheckTheWeather", description: "App built with React, Redux, Node, Google Maps API, and OpenWeatherMap API", url: "https://github.com/fatcatdog/check-the_weather-app", demoUrl: "https://checktheweatherapp.herokuapp.com/", screenshot: "" },
